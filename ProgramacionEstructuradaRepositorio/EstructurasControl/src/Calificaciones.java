@@ -14,6 +14,6 @@ public class Calificaciones {
             califAcum=califAcum+calif;
 
         }
-        JOptionPane.showMessageDialog("la sumatoria es de: "+ califAcum);
+        JOptionPane.showMessageDialog(null, "la sumatoria es de: "+ califAcum);
     }
 }
